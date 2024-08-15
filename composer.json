@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": ">=7.2.0",
-        "silverstripe/framework": "^4",
+        "silverstripe/framework": "^4.9",
         "silverstripe/vendor-plugin": "^1",
         "sendgrid/sendgrid": "^7.3"
     },
